@@ -12,3 +12,4 @@ Entre las herramientas más utilizadas en un entorno DevOps se encuentran:
 - **Kubernetes**: para orquestación de contenedores y despliegue automático.
 - **Terraform**: para infraestructura como código (IaC).
 
+DevOps es un conjunto de practicas para mejorar la eficienciaa de el desarrollo del software automatizando los procesos para una mayor eficiencia
